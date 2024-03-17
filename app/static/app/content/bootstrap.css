@@ -4547,8 +4547,8 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-inverse {
-  background-color: #ef9f13;
-  background: linear-gradient(to top, #f09e14, #fada31);
+  background-color: #000000;
+  background: linear-gradient(to top, #000000, #000000);
   /*border-color: orange;*/
 }
 
@@ -4572,7 +4572,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-inverse .navbar-nav > li > a {
-  color: black;
+  color: #EE82EE;
   border: none;
 }
 
